@@ -1,4 +1,5 @@
 CH_4_Classes_Objects
 
-This project provides exercises for Chapter 4 of Java A Beginner's Guide by Herbert Schildt.
-Create a branc of this project and complete the exercises. You can check your work by running the test cases.
+Fork this project and clone locally. 
+Uncomment, the tests and write the code necessary to get them to pass. 
+These exercises cover Chapter 4: Classes and Objects of Java A Beginner's Guide by Herbert Schildt.
